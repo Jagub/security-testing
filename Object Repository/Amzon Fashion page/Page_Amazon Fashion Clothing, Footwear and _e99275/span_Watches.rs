@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Watches</name>
+   <tag></tag>
+   <elementGuidId>25225748-517f-4c69-b221-3518b815068e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sobe_d_b_1_6 > a.sl-sobe-carousel-sub-card-link > div.sl-sobe-carousel-sub-card-footer > span.sl-sobe-carousel-sub-card-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sobe_d_b_1_6']/a/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>083fb231-4e8f-4fa8-8b16-4e2c06081f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-sobe-carousel-sub-card-title</value>
+      <webElementGuid>a2b55677-1e4b-4ff3-b5c0-e85fa0f47085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watches	</value>
+      <webElementGuid>160c23b3-2620-4c38-80e2-760bc52b8d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sobe_d_b_1_6&quot;)/a[@class=&quot;sl-sobe-carousel-sub-card-link&quot;]/div[@class=&quot;sl-sobe-carousel-sub-card-footer&quot;]/span[@class=&quot;sl-sobe-carousel-sub-card-title&quot;]</value>
+      <webElementGuid>256258d5-d6a8-4162-8d6e-a52f24f16868</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sobe_d_b_1_6']/a/div[2]/span</value>
+      <webElementGuid>5c2e11dc-6046-4bce-b0e1-29daffb88ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div[2]/span</value>
+      <webElementGuid>149eb6fa-11a9-4c19-b69c-2b95fb47f520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Watches	' or . = 'Watches	')]</value>
+      <webElementGuid>199dd6ff-af55-4a8a-8751-9a77e21dd6a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
